@@ -1,41 +1,48 @@
-# Python Arthmatic Operators
-
+# Define variables x and y
 x = 5
 y = 3
 
-print(x + y)
+# Add x and y and print the result
+print(x + y)  # Output: 8
 
+# Define variables x and y
 x = 5
 y = 3
 
-print(x - y)
+# Subtract y from x and print the result
+print(x - y)  # Output: 2
 
-
+# Define variables x and y
 x = 5
 y = 3
 
-print(x * y)
+# Multiply x and y and print the result
+print(x * y)  # Output: 15
 
-
+# Define variables x and y
 x = 12
 y = 3
 
-print(x / y)
+# Divide x by y and print the result as a float
+print(x / y)  # Output: 4.0
 
-
+# Define variables x and y
 x = 5
 y = 2
 
-print(x % y)
+# Divide x by y and print the remainder
+print(x % y)  # Output: 1
 
-
+# Define variables x and y
 x = 2
 y = 5
 
-print(x ** y) 
+# Raise x to the power of y and print the result
+print(x ** y)  # Output: 32
 
-
+# Define variables x and y
 x = 15
 y = 2
 
-print(x // y)
+# Perform floor division on x by y and print the result
+print(x // y)  # Output: 7
